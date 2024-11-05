@@ -1,0 +1,4 @@
+﻿  render.cpp
+C:\Users\valer\OneDrive\Desktop\Cpp\CS31 Project 5\render.cpp(77,41): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\valer\OneDrive\Desktop\Cpp\CS31 Project 5\render.cpp(85,23): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  CS31 Project 5.vcxproj -> C:\Users\valer\OneDrive\Desktop\Cpp\CS31 Project 5\x64\Debug\CS31 Project 5.exe
